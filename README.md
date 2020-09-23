@@ -1,73 +1,13 @@
-# Project title and description
+# Civic Tech Structure
 
-Include a project description that explains **what** your project is and **why** it exists. Aim for no more than 3-5 concise sentences. For example, you might say:
+The Civic Tech Structure project seeks to improve existing structures and create new ones that make it easier to share replicable processes and practices so that the civic tech community can iterate on each other’s work, improving outcomes for the whole ecosystem.  
 
-{Project Name} is a project of Hack for LA. Hack for LA is a brigade of a Code for America that exists to {your mission}. {Project Name} helps {target users} accomplish {goal of project}. The {app/site/thing you're building}'s main features include {very brief feature descriptions}.
+| External Projects | With Partners|
+|:--|:--|
+| ![Screen Shot 2020-09-23 at 12 46 25 PM](https://user-images.githubusercontent.com/37763229/94065214-afd7bc00-fd9f-11ea-93c6-6ad264e38b3e.png)   |     Civic Tech Structure’s first external project is to help extend Code for America’s Brigade Organizer’s Playbook (BOP), building on the existing product and improving its value as a communal, high-value resource for sharing best practices in topic areas such as fundraising, recruiting members, running remote brigades, project management, setting and achieving DEI goals, etc.<br><br>Critical to the project’s success will be canvassing the BOP end-user - the Brigade Organizers - to understand their pains, wants, and needs, and identifying effective processes and practices (including the state of shareability they are in).  This process will be made possible by an intensive UX Research phase with the BOP end users via exploratory, structured interviews.<br><br>Each of the 80+ Code for America Brigades is an experiment which generates valuable learnings and new effective processes and practices.<br><br>[Read about the BOP Extension Project](https://docs.google.com/document/d/1P7HmROzkFYVyu7cFkzirwgO-F4i8v6ijQQ4PF44f5bE/edit)  | 
 
-### Project context
+| Internal Projects | Implementation across all Hack for LA projects |
+|:--|:--|
+| <img src="https://user-images.githubusercontent.com/37763229/94067492-cf241880-fda2-11ea-9408-1f66f7f4bb61.png" width="100"> | To secure the passwords and make it easy to add/remove people from projects |
+| [Project One Sheets](https://github.com/hackforla/product-managment/issues/3) |  To create alignment on project between the org and volunteers, while providing outside stakeholders a overview of projects. |
 
-Civic projects often exist within a larger context that may include multiple stakeholders, historic relationships, associated research, or other details that are relevant but not *required* for direct contributions. Gathering these details in one place is useful, but the ReadMe isn't that place. Use this section to [link to a Google Doc](#) or other documentation repository where contributors can dig in if they so choose. This is also a good place to link to your Code of Conduct.
-
-### Technology used
-
-- Each platform or framework should get its own bullet.
-- Each platform should include an [active link](#) to the official documentation.
-
-
-
-# How to contribute
-
-Explain the different ways people can contribute. For example:
-
-- Join the team {on Slack/at our weekly hack night/etc}.
-- To help with user research, {do ABC}.
-- To provide design support, {do XYZ}.
-- To contribute to the code, follow the instructions below.
-
-Remember to provide direct links to each channel.
-
-
-
-## Installation instructions
-
-1. Step-by-step instructions help new contributors get a development environment up and running quickly.
-2. You'll want to find the balance between being specific enough for novices to follow, without being so specific that you reinvent the wheel by providing overly-basic instructions that can be found elsewhere.
-3. Feel free to adapt this section and its sub-sections to your own processes.
-4. Alternatively, you can move everything from *Installation instructions* through *Testing* to a separate **Contributing.md** file to keep your **ReadMe.md** more succinct.
-
-
-### Working with issues
-
-- Explain how to submit a bug.
-- Explain how to submit a feature request.
-- Explain how to contribute to an existing issue.
-
-To create a new issue, please use the blank issue template (available when you click New Issue).  If you want to create an issue for other projects to use, please create the issue in your own repository and send a slack message to one of your hack night hosts with the link.
-
-
-### Working with forks and branches
-
-- Explain your guidelines here.
-
-
-### Working with pull requests and reviews
-
-- Explain your process.
-
-
-### Testing
-
-- Provide instructions.
-
-
-
-# Contact info
-
-Include at least one way (or more, if possible) to reach your team with questions or comments.
-
-
-### Licensing
-
-Include details about the project's open source status.
-
-*this readme file sourced from [Jessica Sand](http://jessicasand.com/other-stuff/just-enough-docs/)*
