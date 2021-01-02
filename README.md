@@ -10,4 +10,4 @@ The Civic Tech Structure project seeks to improve existing structures and create
 |:--|:--|
 | <img src="https://user-images.githubusercontent.com/37763229/94067492-cf241880-fda2-11ea-9408-1f66f7f4bb61.png" width="100"> | To secure the passwords and make it easy to add/remove people from projects |
 | [Project One Sheets](https://github.com/hackforla/product-managment/issues/3) |  To create alignment on project between the org and volunteers, while providing outside stakeholders a overview of projects. |
-
+| [Resume Content Building Tool](https://docs.google.com/spreadsheets/d/164RGPJK3b5IdmWhici-d8Qss1_PvGPL5gwsEHujxTfQ/) |  To help volunteers to turn their experience into bullet items on their resume |
