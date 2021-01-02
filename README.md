@@ -12,3 +12,4 @@ The Civic Tech Structure project seeks to improve existing structures and create
 | [Project One Sheets](https://github.com/hackforla/product-managment/issues/3) |  To create alignment on project between the org and volunteers, while providing outside stakeholders a overview of projects. |
 | [Resume Content Building Tool](https://docs.google.com/spreadsheets/d/164RGPJK3b5IdmWhici-d8Qss1_PvGPL5gwsEHujxTfQ/) |  To help volunteers to turn their experience into bullet items on their resume |
 | [WIKI template](https://github.com/hackforla/product-managment/issues/25) |  Draft WIKI with to help projects build their onboarding documentation quickly |
+| [Communication (style) Guide for Document Creation](https://github.com/hackforla/product-managment/issues/22) |  Document Template Creation Guide for setting up a consistent look and feel across all documents (internal and external) for your project |
