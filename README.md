@@ -14,4 +14,4 @@ The Civic Tech Structure project seeks to improve existing structures and create
 | [WIKI template](https://github.com/hackforla/product-managment/issues/25) |  Draft WIKI with to help projects build their onboarding documentation quickly |
 | [Communication (style) Guide for Document Creation](https://github.com/hackforla/product-managment/issues/22) |  Document Template Creation Guide for setting up a consistent look and feel across all documents (internal and external) for your project |
 | [Google Form design](https://github.com/hackforla/product-managment/issues/23) |  Guide to making great headers for your google forms |
-
+| [User Stories and Personas Templates](https://github.com/hackforla/product-managment/issues/21) |  A Guide to User Stories and Persona creation |
