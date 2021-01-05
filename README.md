@@ -10,7 +10,7 @@ The Civic Tech Structure project seeks to improve existing structures and create
 |:--|:--|:--|:--|
 | <img src="https://user-images.githubusercontent.com/37763229/94067492-cf241880-fda2-11ea-9408-1f66f7f4bb61.png" width="100"> | To secure the passwords and make it easy to add/remove people from projects | in use | needs guide
 | [Project One Sheets](https://github.com/hackforla/product-managment/issues/3) |  To create alignment on project between the org and volunteers, while providing outside stakeholders a overview of projects. | in use | needs guide |
-| [Resume Content Building Tool](https://docs.google.com/spreadsheets/d/164RGPJK3b5IdmWhici-d8Qss1_PvGPL5gwsEHujxTfQ/) |  To help volunteers to turn their experience into bullet items on their resume | in use | includes instruction |
+| [Resume Content Building Tool](https://docs.google.com/spreadsheets/d/164RGPJK3b5IdmWhici-d8Qss1_PvGPL5gwsEHujxTfQ/) |  To help volunteers to turn their experience into bullet items on their resume | in use | ✅ includes instruction |
 | [WIKI template](https://github.com/hackforla/product-managment/issues/25) |  Draft WIKI with to help projects build their onboarding documentation quickly | in use | ready to clone |
 | [Communication (style) Guide for Document Creation (WIP)](https://github.com/hackforla/product-managment/issues/22) |  Document Template Creation Guide for setting up a consistent look and feel across all documents (internal and external) for your project | rolling out | needs guide |
 | [Google Form design (WIP)](https://github.com/hackforla/product-managment/issues/23) |  Guide to making great headers for your google forms | ideating | needs guidlines |
