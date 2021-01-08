@@ -17,4 +17,5 @@ The Civic Tech Structure project seeks to improve existing structures and create
 | [User Stories and Personas Templates (WIP)](https://github.com/hackforla/product-managment/issues/21) |  Guide to User Stories and Persona creation | in use | needs guide |
 | [Privacy Policy Template (WIP)](https://github.com/hackforla/product-managment/issues/26) |  Template for open source software projects | rolling out | needs guide |
 | [Figma Template (WIP)](https://github.com/hackforla/product-managment/issues/20) |  Template for figma files on a project | ideating | needs examples |
+| [Adding a GitHub sponsors button to your repository](https://github.com/hackforla/brigade2point0/issues/1) |  Summary of GitHub sponsors with CfA and without | ideating | ✅ includes instruction & waiting for CfA to setup |
 
