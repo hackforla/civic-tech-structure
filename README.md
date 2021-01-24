@@ -18,4 +18,4 @@ The Civic Tech Structure project seeks to improve existing structures and create
 | [Privacy Policy Template (WIP)](https://github.com/hackforla/product-managment/issues/26) |  Template for open source software projects | rolling out | needs guide |
 | [Figma Template (WIP)](https://github.com/hackforla/product-managment/issues/20) |  Template for figma files on a project | ideating | needs examples |
 | [Adding a GitHub sponsors button to your repository](https://github.com/hackforla/brigade2point0/issues/1) |  Summary of GitHub sponsors with CfA and without | ideating | ✅ includes instruction & waiting for CfA to setup |
-
+| [Competitive or Compartive Analysis Template](https://docs.google.com/spreadsheets/d/1ePxxsLpdC4MMvJICyMYljHawhs1j-hpFHZFOtB0fdDc/edit#gid=0) |  Template for doing analysis between your project and similar or overlapping efforts | in use | ✅ includes instruction |
