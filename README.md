@@ -19,3 +19,4 @@ The Civic Tech Structure project seeks to improve existing structures and create
 | [Figma Template (WIP)](https://github.com/hackforla/product-managment/issues/20) |  Template for figma files on a project | ideating | needs examples |
 | [Adding a GitHub sponsors button to your repository](https://github.com/hackforla/brigade2point0/issues/1) |  Summary of GitHub sponsors with CfA and without | ideating | ✅ includes instruction & waiting for CfA to setup |
 | [Competitive or Compartive Analysis Template](https://docs.google.com/spreadsheets/d/1ePxxsLpdC4MMvJICyMYljHawhs1j-hpFHZFOtB0fdDc/edit#gid=0) |  Template for doing analysis between your project and similar or overlapping efforts | in use | ✅ includes instruction |
+| [Github: Kanban board setup](https://docs.google.com/presentation/d/1LHtvnHb35Sw7cHzk8RYJG4a1U9RblZepsC3wL7ZEpV0/edit#slide=id.g5e46fb07f1_0_1) |  Slide Deck for setting up Kanban boards on your new project | in use | ✅ includes instruction |
