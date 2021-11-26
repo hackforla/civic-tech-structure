@@ -1,6 +1,4 @@
-# Civic Tech Structure
-
-The Civic Tech Structure project seeks to improve existing structures and create new ones that make it easier to share replicable processes and practices so that the civic tech community can iterate on each other’s work, improving outcomes for the whole ecosystem.  
+The Civic Tech Structure, Inc. nonprofit seeks to improve existing structures and create new ones that make it easier to share replicable processes and practices so that the civic tech community can iterate on each other’s work, improving outcomes for the whole ecosystem.  
 
 | External Projects | With Partners|
 |:--|:--|
